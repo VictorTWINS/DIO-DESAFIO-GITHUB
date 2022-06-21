@@ -1,0 +1,2 @@
+Colocando na prática os comandos para comitar, empurrar e salvar novos arquivos na maquina local e na remota.
+
